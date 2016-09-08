@@ -1,5 +1,4 @@
-# exploratory-data-analysis_assgn1
-assignment 1 for the exploratory data analysis course.
+# exploratory data analysis
 
 The goal was to examine how household energy usage varies over a 2-day period in February, 2007. </br>
 4 different plots were constructed to understand the household enery usage over the required 2 day period.
